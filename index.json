@@ -1,3 +1,8 @@
 {
-    "title": "Hola mundo"
+    "app": "Palm Oil Scorecard",
+    "ab_name": "About Palm Oil",
+    "sc_name": "Scores",
+    "an_name": "Analysis",
+    "re_name": "Recommendations",
+    "me_name": "Methodology"
 }
