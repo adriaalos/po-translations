@@ -1,5 +1,10 @@
 {
     "app": "Palm Oil Scorecard",
+    "ho_header_year": "2024",
+    "ho_header_title_big": "Palm Oil",
+    "ho_header_title_small": "Scorecard",
+    "ho_header_claim": "Are brands committed to a responsible palm oil future?",
+    "ho_header_button": "Check the brand’s scores",
     "ab_name": "About Palm Oil",
     "ab_url": "about-palm-oil",
     "sc_name": "Scores",
