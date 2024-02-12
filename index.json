@@ -1,8 +1,13 @@
 {
     "app": "Palm Oil Scorecard",
     "ab_name": "About Palm Oil",
+    "ab_url": "about-palm-oil",
     "sc_name": "Scores",
+    "sc_url": "scores",
     "an_name": "Analysis",
+    "an_url": "analysis",
     "re_name": "Recommendations",
-    "me_name": "Methodology"
+    "re_url": "recommendations",
+    "me_name": "Methodology",
+    "me_url": "methodology"
 }
