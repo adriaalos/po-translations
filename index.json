@@ -24,7 +24,7 @@
     "ho_scatter_download_png": "Download as PNG",
     "ho_scatter_axis_x_score_total": "TOTAL SCORE",
     "ho_scatter_axis_x_score_average": "AVERAGE SCORE",
-    "ho_scatter_axis_x_score_max": "MAX SCORE",
+    "ho_scatter_axis_x_objective": "OBJECTIVE",
     "ho_scatter_axis_y_title": "PALM OIL USED",
     "ho_scatter_resume_palmoil": "Total palm oil volume purchased",
     "ho_scatter_resume_segregated": "Segregated / Identity Preserved",
