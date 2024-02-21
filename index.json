@@ -79,6 +79,7 @@
     "sc_header_title": "PALM OIL SCORECARD",
     "sc_header_download_button": "DOWNLOAD FULL RESULTS",
     "sc_header_download_url": "https://palmoilscorecard.panda.org/uploads/POBS_2021_Results.xlsx",
+    "sc_data_table_full_report": "FULL REPORT",
     "an_name": "Analysis",
     "an_url": "analysis",
     "re_name": "Recommendations",
