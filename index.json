@@ -1,6 +1,7 @@
 {
     "app": "Palm Oil Scorecard",
     "gl_outof": "out of",
+    "gl_total_score": "Total score",
     "ho_hero_year": "2024",
     "ho_hero_title_big": "Palm Oil",
     "ho_hero_title_small": "Scorecard",
@@ -22,7 +23,6 @@
     "ho_scatter_search_placeholder": "Search for a company or brand name",
     "ho_scatter_download_svg": "Download as SVG",
     "ho_scatter_download_png": "Download as PNG",
-    "ho_scatter_axis_x_score_total": "TOTAL SCORE",
     "ho_scatter_axis_x_score_average": "AVERAGE SCORE",
     "ho_scatter_axis_x_objective": "OBJECTIVE",
     "ho_scatter_axis_y_title": "PALM OIL USED",
